@@ -1,2 +1,9 @@
 # study-workbench
-Nora study workbench: learning map, tasks, notes and course links.
+
+Nora 的学习工作台：学习中心、学习清单、学习记录与目标设置。
+
+访问：https://lisahe0607-nora.github.io/study-workbench/
+
+使用已有账号登录；同一账号可在电脑、手机和平板读取云端进度。暂不提供自助注册。旧浏览器体验版记录保留，可登录后在备份与恢复中导出、预览并手动导入。
+
+此仓库仅保存审核后的静态网页和公开说明。账号、个人目标、学习数据与备份不在本仓库。
